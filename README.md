@@ -1,22 +1,27 @@
-### Hey there, I see my profile piqued your interest.
+<h1 align="center">👋 + 🌏</h1>
 
-- 📝 I'm a writer and software developer
+
+I'm a __technical writer__ and a __software engineer__ based in the beautiful islands of the Philippines. 
+
 - 💹 I'm mostly interested in the financial world and stock market
 - 👯 I’m also looking to collaborate with other content creators for Youtube and FB Streams
 - 🎮 I'm a gamer also playing games like DS3 and other platformers
 
-### 🍣 Follow & Connect With Me:
-
-[<img align="left" alt="Where It All Started - Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blog]
-[<img align="left" alt="Where It All Started - Anchor" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anchor.svg" />][podcasts]
-[<img align="left" alt="Where It All Started - YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][blog-youtube]
-[<img align="left" alt="Where It All Started - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][blog-twitter]
-[<img align="left" alt="Where It All Started - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][blog-facebook]
-[<img align="left" alt="Where It All Started - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][blog-instagram]
-
 <br />
 
-### 🍣 Languages & Tools:
+## 🍣 Connect
+
+[<img align="left" alt="Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blog]
+[<img align="left" alt="Anchor" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anchor.svg" />][podcasts]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][blog-youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][blog-twitter]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][blog-facebook]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][blog-instagram]
+
+<br />
+<br />
+
+## 🍣 Skills
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][blog]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][blog]
