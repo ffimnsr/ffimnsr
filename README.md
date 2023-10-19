@@ -16,10 +16,10 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
 
 ## 🔗 Let's Connect
 
-[<img align="left" alt="Blogger" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][blog]
-[<img align="left" alt="Blogger" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Blogger" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="Blogger" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fedora.svg" />][reddit]
+[<img align="left" alt="Blogger" width="54px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][blog]
+[<img align="left" alt="Blogger" width="54px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Blogger" width="54px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="Blogger" width="54px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fedora.svg" />][reddit]
 
 <br/>
 <br/>
