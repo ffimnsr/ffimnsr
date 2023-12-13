@@ -24,6 +24,14 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
 <br/>
 <br/>
 
+## ⭐ Github Stats
+
+[![ffimnsr GitHub Stats](https://github-readme-stats.vercel.app/api?username=ffimnsr&count_private=true&show_icons=true&theme=transparent)](https://github.com/ffimnsr)
+
+## 🏖️ Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ffimnsr&langs_count=10)](https://github.com/ffimnsr)
+
 ## 🚀 Technical Skills
 
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][blog]
@@ -43,7 +51,6 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][blog]
 [<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][blog]
 
-<br />
 
 [blog]: https://www.vastorigins.com
 [linkedin]: https://www.linkedin.com/in/ffimnsr
