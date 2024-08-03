@@ -16,14 +16,11 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
 
 ## 🔗 Let's Connect
 
-[<img align="left" alt="Blogger" width="54px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][blog]
-[<img align="left" alt="Blogger" width="54px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Blogger" width="54px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="Blogger" width="54px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fedora.svg" />][reddit]
-
-<br/>
-<br/>
-<br/>
+- [My Blog](https://www.vastorigins.com)
+- [Portfolio](https://me.vastorigins.com)
+- [LinkedIn](https://www.linkedin.com/in/ffimnsr)
+- [Threads](https://threads.net/@ffimnsr)
+- [Reddit](https://www.reddit.com/user/ffimnsr)
 
 ## ⭐ Github Stats
 
@@ -52,7 +49,4 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
 <code><img alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 
-[blog]: https://www.vastorigins.com
-[linkedin]: https://www.linkedin.com/in/ffimnsr
-[reddit]: https://www.reddit.com/user/ffimnsr
 
