@@ -24,11 +24,12 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
 
 ## ⭐ Github Stats
 
-[![ffimnsr GitHub Stats](https://github-readme-stats.vercel.app/api?username=ffimnsr&count_private=true&show_icons=true&theme=transparent)](https://github.com/ffimnsr)
-
-## 🏖️ Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ffimnsr&langs_count=10)](https://github.com/ffimnsr)
+<a href="https://github.com/ffimnsr">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffimnsr&langs_count=10" />
+</a>
+<a href="https://github.com/ffimnsr">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=ffimnsr&count_private=true&show_icons=true&theme=transparent" />
+</a>
 
 ## 🚀 Technical Skills
 
