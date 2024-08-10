@@ -14,15 +14,6 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
 - [Midas](https://github.com/ffimnsr/midas-rs) - Do painless migration.
 - [Jmail](https://github.com/ffimnsr/jmail) - Send-only SMTP mail server in container.
 
-## 🔗 Let's Connect
-
-- [My Blog](https://www.vastorigins.com)
-- [Portfolio](https://me.vastorigins.com)
-- [LinkedIn](https://www.linkedin.com/in/ffimnsr)
-- [Threads](https://threads.net/@ffimnsr)
-- [Reddit](https://www.reddit.com/user/ffimnsr)
-- [StackOverflow](https://stackoverflow.com/users/1406063/edward-fitz-abucay)
-
 ## ⭐ Github Stats
 
 <a href="https://github.com/ffimnsr">
@@ -31,6 +22,15 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
 <a href="https://github.com/ffimnsr">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=ffimnsr&count_private=true&show_icons=true&theme=transparent" />
 </a>
+
+## 🔗 Let's Connect
+
+- [My Blog](https://www.vastorigins.com)
+- [Portfolio](https://me.vastorigins.com)
+- [LinkedIn](https://www.linkedin.com/in/ffimnsr)
+- [Threads](https://threads.net/@ffimnsr)
+- [Reddit](https://www.reddit.com/user/ffimnsr)
+- [StackOverflow](https://stackoverflow.com/users/1406063/edward-fitz-abucay)
 
 ## 🚀 Technical Skills
 
