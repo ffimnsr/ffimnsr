@@ -23,15 +23,6 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=ffimnsr&count_private=true&show_icons=true&theme=transparent" />
 </a>
 
-## 🔗 Let's Connect
-
-- [My Blog](https://www.vastorigins.com)
-- [Portfolio](https://me.vastorigins.com)
-- [LinkedIn](https://www.linkedin.com/in/ffimnsr)
-- [StackOverflow](https://stackoverflow.com/users/1406063/edward-fitz-abucay)
-- [Threads](https://threads.net/@ffimnsr)
-- [Reddit](https://www.reddit.com/user/ffimnsr)
-
 ## 🚀 Technical Skills
 
 <code><img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
@@ -51,4 +42,12 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
 <code><img alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 
+## 🔗 Let's Connect
 
+- [Website](https://www.vastorigins.com)
+- [Portfolio](https://me.vastorigins.com)
+- [LinkedIn](https://www.linkedin.com/in/ffimnsr)
+- [Threads](https://threads.net/@ffimnsr)
+- [Reddit](https://www.reddit.com/user/ffimnsr)
+- [StackOverflow](https://stackoverflow.com/users/1406063/edward-fitz-abucay)
+- [Fedora](https://eabucay.fedorapeople.org)
