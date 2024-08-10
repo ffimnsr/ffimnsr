@@ -21,6 +21,7 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
 - [LinkedIn](https://www.linkedin.com/in/ffimnsr)
 - [Threads](https://threads.net/@ffimnsr)
 - [Reddit](https://www.reddit.com/user/ffimnsr)
+- [StackOverflow](https://stackoverflow.com/users/1406063/edward-fitz-abucay)
 
 ## ⭐ Github Stats
 
