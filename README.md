@@ -28,9 +28,9 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
 - [My Blog](https://www.vastorigins.com)
 - [Portfolio](https://me.vastorigins.com)
 - [LinkedIn](https://www.linkedin.com/in/ffimnsr)
+- [StackOverflow](https://stackoverflow.com/users/1406063/edward-fitz-abucay)
 - [Threads](https://threads.net/@ffimnsr)
 - [Reddit](https://www.reddit.com/user/ffimnsr)
-- [StackOverflow](https://stackoverflow.com/users/1406063/edward-fitz-abucay)
 
 ## 🚀 Technical Skills
 
