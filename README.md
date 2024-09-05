@@ -12,7 +12,22 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
 ## 🪸 Open Source Projects
 
 - [midas-rs](https://github.com/ffimnsr/midas-rs) - Do painless migration.
+- [haya-rs](https://github.com/ffimnsr/haya-rs) - An OAuth 2.0 (strictly 2.1 as PKCE always required) Authorization Server implemented in pure Rust (WIP).
+- [solana-e-rs](https://github.com/ffimnsr/solana-e-rs) - A simple NFT wallet viewer.
+- [qrscp-js](https://github.com/ffimnsr/qrscp-js) - Quick QR file transfer over local connection using Javascript.
 - [jmail](https://github.com/ffimnsr/jmail) - Send-only SMTP mail server in container.
+- [worker-bee](https://github.com/ffimnsr/worker-bee) - Cloudflare worker in a container.
+- [firefly-tg-bot-rs](https://github.com/ffimnsr/firefly-tg-bot-rs) - Telegram bot with interface to Firefly III.
+- [wooden-heart-wp-theme](https://github.com/ffimnsr/wooden-heart-wp-theme) - A minimalistic theme which was derived from the 2015 default Wordpress theme.
+- [dotemacsen](https://github.com/ffimnsr/dotemacsen) - My personal emacs config.
+
+## Testbeds
+
+- [playground](https://github.com/ffimnsr/playground)
+- [playground-go](https://github.com/ffimnsr/playground-go)
+- [playground-rust](https://github.com/ffimnsr/playground-rust)
+- [playground-solidity](https://github.com/ffimnsr/playground-solidity)
+- [playground-javascript](https://github.com/ffimnsr/playground-javascript)
 
 ## ⭐ Github Stats
 
