@@ -11,8 +11,8 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
 
 ## 🪸 Open Source Projects
 
-- [Midas](https://github.com/ffimnsr/midas-rs) - Do painless migration.
-- [Jmail](https://github.com/ffimnsr/jmail) - Send-only SMTP mail server in container.
+- [midas-rs](https://github.com/ffimnsr/midas-rs) - Do painless migration.
+- [jmail](https://github.com/ffimnsr/jmail) - Send-only SMTP mail server in container.
 
 ## ⭐ Github Stats
 
