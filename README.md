@@ -27,10 +27,6 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
 The place where ideas and dreams come to life.
 
 - [playground](https://github.com/ffimnsr/playground)
-- [playground-go](https://github.com/ffimnsr/playground-go)
-- [playground-rust](https://github.com/ffimnsr/playground-rust)
-- [playground-solidity](https://github.com/ffimnsr/playground-solidity)
-- [playground-javascript](https://github.com/ffimnsr/playground-javascript)
 
 ## ⭐ Github Stats
 
