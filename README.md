@@ -12,7 +12,7 @@ I'm a __technical writer__ and a __software engineer__ based in the beautiful is
 ## 🪸 Open Source Projects
 
 - [midas-rs](https://github.com/ffimnsr/midas-rs) - Do painless migration 🦀.
-- [scarper-rs](https://github.com/ffimnsr/midas-rs) - Manage your `.local\bin` without sweat 🦀.
+- [scarper-rs](https://github.com/ffimnsr/playground/tree/development/rust/scarper) - Manage your `.local\bin` without sweat 🦀.
 - [haya-rs](https://github.com/ffimnsr/haya-rs) - An OAuth 2.0 (strictly 2.1 as PKCE always required) Authorization Server implemented in pure Rust (WIP).
 - [solana-e-rs](https://github.com/ffimnsr/solana-e-rs) - Simple Solana NFT wallet viewer.
 - [qrscp-js](https://github.com/ffimnsr/qrscp-js) - Quick QR file transfer over local connection using Javascript.
