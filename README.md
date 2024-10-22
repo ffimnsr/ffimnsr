@@ -1,13 +1,12 @@
 <h1 align="center">👋 + 🌏</h1>
 
+I'm a **software engineer** and **technical writer** based in the beautiful islands of the Philippines. I enjoy exploring the world and sharing my knowledge through writing and coding.
 
-I'm a __technical writer__ and a __software engineer__ based in the beautiful islands of the Philippines (mostly exploring the world). 
-
-- 💹 I'm mostly interested in the financial world and stock market
-- 👯 I’m also looking to collaborate with other content creators for Youtube and FB Streams
-- 🎮 I'm a gamer also playing games like DS3 and other platformers
-- 🦀 I'm working on my rust lang skills
-- 🐧 I'm a heavy fedora distro user
+- 💹 I have a strong interest in the financial world and the stock market.
+- 👯 I’m looking to collaborate with other content creators for YouTube and Facebook streams.
+- 🎮 I'm an avid gamer, enjoying titles like Dark Souls 3 and various platformers.
+- 🦀 I'm currently honing my skills in Rust programming.
+- 🐧 I'm an enthusiastic Fedora Linux user.
 
 ## 🪸 Open Source Projects
 
