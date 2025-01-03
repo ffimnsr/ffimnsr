@@ -11,7 +11,8 @@ I'm a **software engineer** and **entrepreneur** based in the beautiful islands 
 ## 🪸 Open Source Projects
 
 - [midas-rs](https://github.com/ffimnsr/midas-rs) - Do painless migration 🦀.
-- [scarper-rs](https://github.com/ffimnsr/playground/tree/development/rust/scarper) - Manage your `.local\bin` without sweat 🦀.
+- [mk-rs](https://github.com/ffimnsr/mk-rs) - Yet another simple task runner 🦀.
+- [scarper-rs](https://github.com/ffimnsr/rust/scarper-rs) - Manage your `.local\bin` without sweat 🦀.
 - [haya-rs](https://github.com/ffimnsr/haya-rs) - An OAuth 2.0 (strictly 2.1 as PKCE always required) Authorization Server implemented in pure Rust (WIP).
 - [solana-e-rs](https://github.com/ffimnsr/solana-e-rs) - Simple Solana NFT wallet viewer.
 - [qrscp-js](https://github.com/ffimnsr/qrscp-js) - Quick QR file transfer over local connection using Javascript.
@@ -20,6 +21,8 @@ I'm a **software engineer** and **entrepreneur** based in the beautiful islands 
 - [firefly-tg-bot-rs](https://github.com/ffimnsr/firefly-tg-bot-rs) - Telegram bot with interface to Firefly III.
 - [refine-postgrest-ts](https://github.com/ffimnsr/refine-postgrest-ts) - PostgREST
   data provider for @refinedev/refine.
+- [refine-chakra-ui-v3-ts)](https://github.com/ffimnsr/refine-chakra-ui-v3-ts) - Chakra UI v3
+  integration with refine.
 - [wooden-heart-wp-theme](https://github.com/ffimnsr/wooden-heart-wp-theme) - A minimalistic theme which was derived from the 2015 default Wordpress theme.
 - [dotemacsen](https://github.com/ffimnsr/dotemacsen) - My personal emacs config.
 
