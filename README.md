@@ -1,16 +1,14 @@
 ```text
-                  /\                   ffimnsr@github
-                 /  \                  ------------------------------
-                / /\ \                 Role: Software Engineer
-               / /  \ \                Focus: Finance, stock market, OSS
-              / /----\ \               Collab: YouTube + Facebook streams
-             /_/      \_\              Hobby: Dark Souls 3, platformers
-             \ \      / /              Learning: Rust
-              \ \    / /               OS: Fedora Linux
-               \ \  / /                Projects: 13 listed
-                \ \/ /                 Stack: Rust, React, Node.js, Elixir
-                 \  /                  Stack: JS, HTML, CSS, Sass, GraphQL
-                  \/                   Tools: Git, SQL, Deno, VS Code, Terminal
+            ███████╗███████╗██╗███╗   ███╗███╗   ██╗███████╗██████╗
+            ██╔════╝██╔════╝██║████╗ ████║████╗  ██║██╔════╝██╔══██╗
+            █████╗  █████╗  ██║██╔████╔██║██╔██╗ ██║███████╗██████╔╝
+            ██╔══╝  ██╔══╝  ██║██║╚██╔╝██║██║╚██╗██║╚════██║██╔══██╗
+            ██║     ██║     ██║██║ ╚═╝ ██║██║ ╚████║███████║██║  ██║
+            ╚═╝     ╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+
+                      Software Engineer • OSS Enthusiast
+
+              Rust • React • Node.js • Elixir • GraphQL • Fedora
 ```
 
 I build software, ship open source tools, and spend a lot of time around terminals, Rust, and Linux.
